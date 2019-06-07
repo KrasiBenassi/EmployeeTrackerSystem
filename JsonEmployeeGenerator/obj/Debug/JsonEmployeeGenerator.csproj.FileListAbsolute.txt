@@ -1,0 +1,8 @@
+C:\Users\Krasi\Source\Repos\EmployeeArrivalTrackerCodingExercise\JsonEmployeeGenerator\bin\Debug\employees.txt
+C:\Users\Krasi\Source\Repos\EmployeeArrivalTrackerCodingExercise\JsonEmployeeGenerator\bin\Debug\JsonEmployeeGenerator.exe.config
+C:\Users\Krasi\Source\Repos\EmployeeArrivalTrackerCodingExercise\JsonEmployeeGenerator\bin\Debug\JsonEmployeeGenerator.exe
+C:\Users\Krasi\Source\Repos\EmployeeArrivalTrackerCodingExercise\JsonEmployeeGenerator\bin\Debug\JsonEmployeeGenerator.pdb
+C:\Users\Krasi\Source\Repos\EmployeeArrivalTrackerCodingExercise\JsonEmployeeGenerator\obj\Debug\JsonEmployeeGenerator.csprojAssemblyReference.cache
+C:\Users\Krasi\Source\Repos\EmployeeArrivalTrackerCodingExercise\JsonEmployeeGenerator\obj\Debug\JsonEmployeeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Krasi\Source\Repos\EmployeeArrivalTrackerCodingExercise\JsonEmployeeGenerator\obj\Debug\JsonEmployeeGenerator.exe
+C:\Users\Krasi\Source\Repos\EmployeeArrivalTrackerCodingExercise\JsonEmployeeGenerator\obj\Debug\JsonEmployeeGenerator.pdb

@@ -1,0 +1,46 @@
+﻿@model EmployeeTracker.WebApplication.Models.EmployeeViewModel
+
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h3>Arrived Employees</h3>
+
+@if (Model.EmployeesInformation.Count() == 0)
+{
+    <p>You are alone in the office :)</p>
+}
+
+@using (Html.BeginForm())
+{
+    <p>
+        Search by Id: @Html.TextBox("SearchString")
+        <input type="submit" value="Search" />
+    </p>
+}
+
+<table id="arrivals" class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.ActionLink("Sort By Id", "Index", new { sortOrder = "id" })
+            </th>
+            <th>
+                @Html.ActionLink("Sort By Date", "Index", new { sortOrder = "date" })
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Employee Id</th>
+            <th>Arrival Time</th>
+        </tr>
+        @foreach (var employees in Model.EmployeesInformation)
+        {
+            <tr>
+                <td>@employees.EmployeeId</td>
+                <td>@employees.ArrivalDateTime</td>
+            </tr>
+        }
+
+</table>

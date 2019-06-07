@@ -1,0 +1,6 @@
+C:\Users\Krasi\source\repos\EmployeeTrackerSystem\EmployeeTracker.ArrivalService\bin\Debug\EmployeeTracker.ArrivalService.dll
+C:\Users\Krasi\source\repos\EmployeeTrackerSystem\EmployeeTracker.ArrivalService\bin\Debug\EmployeeTracker.ArrivalService.pdb
+C:\Users\Krasi\source\repos\EmployeeTrackerSystem\EmployeeTracker.ArrivalService\obj\Debug\EmployeeTracker.ArrivalService.csprojAssemblyReference.cache
+C:\Users\Krasi\source\repos\EmployeeTrackerSystem\EmployeeTracker.ArrivalService\obj\Debug\EmployeeTracker.ArrivalService.csproj.CoreCompileInputs.cache
+C:\Users\Krasi\source\repos\EmployeeTrackerSystem\EmployeeTracker.ArrivalService\obj\Debug\EmployeeTracker.ArrivalService.dll
+C:\Users\Krasi\source\repos\EmployeeTrackerSystem\EmployeeTracker.ArrivalService\obj\Debug\EmployeeTracker.ArrivalService.pdb

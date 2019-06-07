@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTraker.DataLayer", "EmployeeTraker.DataLayer\EmployeeTraker.DataLayer.csproj", "{AA394116-832A-485F-A4AC-29FFCB8987F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTracker.WebApplication", "EmployeeTracker.WebApplication\EmployeeTracker.WebApplication.csproj", "{4CD8E3D3-5D73-497C-B588-3A0E4064AAAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTracker.ArrivalService", "EmployeeTracker.ArrivalService\EmployeeTracker.ArrivalService.csproj", "{5E8118D8-BD2E-4DFD-80CB-849116C06861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebService", "WebService\WebService.csproj", "{A9F27B12-6483-461E-BD5E-BF227AD2E66C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonEmployeeGenerator", "JsonEmployeeGenerator\JsonEmployeeGenerator.csproj", "{4F88BA2B-455B-407A-89EC-2A28F2702E44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Comments", "Comments", "{8FF6D6BD-C397-43DE-830E-C26838E721B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA394116-832A-485F-A4AC-29FFCB8987F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA394116-832A-485F-A4AC-29FFCB8987F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA394116-832A-485F-A4AC-29FFCB8987F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA394116-832A-485F-A4AC-29FFCB8987F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CD8E3D3-5D73-497C-B588-3A0E4064AAAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CD8E3D3-5D73-497C-B588-3A0E4064AAAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CD8E3D3-5D73-497C-B588-3A0E4064AAAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CD8E3D3-5D73-497C-B588-3A0E4064AAAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E8118D8-BD2E-4DFD-80CB-849116C06861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E8118D8-BD2E-4DFD-80CB-849116C06861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E8118D8-BD2E-4DFD-80CB-849116C06861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E8118D8-BD2E-4DFD-80CB-849116C06861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9F27B12-6483-461E-BD5E-BF227AD2E66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F88BA2B-455B-407A-89EC-2A28F2702E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F88BA2B-455B-407A-89EC-2A28F2702E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F88BA2B-455B-407A-89EC-2A28F2702E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F88BA2B-455B-407A-89EC-2A28F2702E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05BAE2C8-BF1B-43B0-B920-7E085459582A}
+	EndGlobalSection
+EndGlobal
